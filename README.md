@@ -1,3 +1,5 @@
+
+[![Python application test with Github Actions](https://github.com/talkdeepak/UdacityAzureDevOps2/actions/workflows/main.yml/badge.svg)](https://github.com/talkdeepak/UdacityAzureDevOps2/actions/workflows/main.yml)
 # UdacityAzureDevOps2
 Deploy flask Machine Learning application on Azure App Services
 
